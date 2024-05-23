@@ -5,3 +5,5 @@ I was annoyed at having to type these out. I may do something for discord timest
 
 The favicon is a calculator free for non-commercial use. License on this is non-commercial only. I changed the Font to paragraph from header for mob0ile compatibility.
 Then I found bizarre autocomplete error on some phones, added note. I think some of them submit a blank string or something. 
+
+It's high contrast colors for accessibility.
